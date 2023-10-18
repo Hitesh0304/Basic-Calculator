@@ -13,6 +13,7 @@
 		CCC338112A170D850063AB85 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCC3380F2A170D850063AB85 /* Main.storyboard */; };
 		CCC338132A170D860063AB85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCC338122A170D860063AB85 /* Assets.xcassets */; };
 		CCC338162A170D860063AB85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CCC338142A170D860063AB85 /* LaunchScreen.storyboard */; };
+		CCECC2B02A1C47280044BF60 /* Hitesh_Calculator_Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCECC2AF2A1C47280044BF60 /* Hitesh_Calculator_Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CCC338122A170D860063AB85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CCC338152A170D860063AB85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CCC338172A170D860063AB85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCECC2AF2A1C47280044BF60 /* Hitesh_Calculator_Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hitesh_Calculator_Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CCC338122A170D860063AB85 /* Assets.xcassets */,
 				CCC338142A170D860063AB85 /* LaunchScreen.storyboard */,
 				CCC338172A170D860063AB85 /* Info.plist */,
+				CCECC2AF2A1C47280044BF60 /* Hitesh_Calculator_Model.swift */,
 			);
 			path = "Hitesh Moudgil Calculator";
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				CCC3380E2A170D850063AB85 /* ViewController.swift in Sources */,
 				CCC3380A2A170D850063AB85 /* AppDelegate.swift in Sources */,
+				CCECC2B02A1C47280044BF60 /* Hitesh_Calculator_Model.swift in Sources */,
 				CCC3380C2A170D850063AB85 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
